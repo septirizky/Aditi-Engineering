@@ -8,7 +8,6 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Whatsapp from "../components/Whatsapp";
 import Switcher from "../components/Switcher";
-import LanguageButton from "../components/Swit";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -48,7 +47,6 @@ export default async function RootLayout({
             <Sidebar />
           </div>
           <Footer />
-          {/* <LanguageButton /> */}
           <Switcher />
           <Whatsapp />
         </NextIntlClientProvider>
