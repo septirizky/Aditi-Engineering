@@ -1,0 +1,34 @@
+{
+  "Navigation": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "service": "Layanan",
+    "sparepart": "Suku Cadang",
+    "contact": "Kontak",
+    "project": "Proyek"
+  },
+  "About": {
+    "title1": "Selamat datang di",
+    "title2": "Kenali Tentang Kami",
+    "title3": "Misi Kami",
+    "title4": "Keunggulan Kami",
+    "description1": "Perusahaan modifikasi truk terkemuka yang berspesialisasi dalam kendaraan 4x4 dan 6x6. Kami berdedikasi untuk menyediakan solusi kendaraan yang handal dan berkualitas tinggi untuk memenuhi kebutuhan industri tambang, perkebunan sawit, dan berbagai sektor lainnya yang memerlukan transportasi berat dan tangguh.",
+    "description2": "merupakan perusahaan spesialis modifikasi truk 4X4 & 6X6 yang mempunyai kualitas produk tinggi dan tenaga ahli yang mumpuni. Dengan pengalaman bertahun-tahun di industri otomotif, kami telah menjadi pemimpin dalam modifikasi truk yang tidak hanya meningkatkan performa tetapi juga menambah nilai estetika pada kendaraan Anda.",
+    "description3": "Kami menawarkan keunggulan modifikasi 4x4 dan 6x6 untuk meningkatkan cengkeraman dan traksi, membantu Anda melewati medan yang sulit, sekaligus memungkinkan kendaraan dikendarai secara bersamaan oleh mesin.",
+    "mission": "Kami berkomitmen untuk memberikan layanan terbaik dengan menyediakan truk yang disesuaikan dengan kebutuhan spesifik setiap pelanggan. Misi kami adalah memastikan bahwa setiap kendaraan yang kami modifikasi dapat menghadapi tantangan medan yang berat dan kondisi kerja yang ekstrem, sehingga pelanggan kami dapat mengandalkan kinerja dan keandalannya."
+  },
+  "Service": {
+    "title1": "Layanan Kami",
+    "title2": "Industri yang Kami Layani",
+    "mining": "Kendaraan yang tangguh dan handal untuk operasi tambang yang efisien.",
+    "palm": "Truk yang mampu mengatasi medan sulit di area perkebunan.",
+    "contruction": "Kendaraan yang kuat untuk proyek konstruksi dengan kondisi kerja yang berat.",
+    "militer": "Truk yang andal di medan ekstrim lumpur, batu, air, sungai, pasir."
+  },
+  "Contact": {
+    "title": "Kontak Kami"
+  },
+  "Switcher": {
+    "switch": "Bahasa"
+  }
+}

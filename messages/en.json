@@ -1,0 +1,34 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "service": "Service",
+    "sparepart": "Sparepart",
+    "contact": "Contact",
+    "project": "Project"
+  },
+  "About": {
+    "title1": "Welcome to",
+    "title2": "Get to Know About Us",
+    "title3": "Our Mission",
+    "title4": "Our Advantages",
+    "description1": "A leading truck modification company specializing in 4x4 and 6x6 vehicles. We are dedicated to providing reliable and high quality vehicle solutions to meet the needs of the mining, palm oil plantation, and various other sectors that require heavy-duty and robust transportation.",
+    "description2": "is a company specializing in modificating 4X4 & 6X6 trucks, which has high quality product and qualified experts. With years of experience in the automotive industry, we have become leaders in truck modifications that not only enhance performance but also add aesthetic value to your vehicle.",
+    "description3": "We offer the advantage of 4x4 and 6x6 modifications to enhance grip and traction, helping you navigate challenging terrains, while also allowing the vehicle to be driven simultaneously by the engine.",
+    "mission": "We are committed to delivering the best service by providing trucks tailored to the specific needs of each customer. Our mission is to ensure that every vehicle we modify can withstand challenging terrains and extreme working conditions, so our customers can rely on their performance and dependability."
+  },
+  "Service": {
+    "title1": "Our Service",
+    "title2": "Industries We Serve",
+    "mining": "Durable and reliable vehicles for efficient mining operations.",
+    "palm": "Trucks capable of handling difficult terrains in plantation areas.",
+    "contruction": "Robust vehicles for heavy-duty construction projects.",
+    "militer": "Reliable truck in extreme terrain of mud, rocks, water, rivers, sand."
+  },
+  "Contact": {
+    "title": "Contact Us"
+  },
+  "Switcher": {
+    "switch": "Language"
+  }
+}
