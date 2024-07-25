@@ -13,7 +13,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "PT ADITI MULTI KARYA",
-  description: "Truk modification 4x4 & 6x6",
+  description:
+    "Perusahaan modifikasi truk terkemuka yang berspesialisasi dalam kendaraan 4x4 dan 6x6. Kami berdedikasi untuk menyediakan solusi kendaraan yang handal dan berkualitas tinggi untuk memenuhi kebutuhan industri tambang, perkebunan sawit, dan berbagai sektor lainnya yang memerlukan transportasi berat dan tangguh.",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 type RootLayoutProps = {

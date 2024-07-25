@@ -1,3 +1,10 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "PROJECT - PT ADITI MULTI KARYA",
+  description: "Galeri foto project yang sudah kami kerjakan.",
+};
+
 const Project = () => {
   return (
     <>

@@ -1,6 +1,13 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { Link } from "@/navigation";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "SERVICE - PT ADITI MULTI KARYA",
+  description:
+    "Modifikasi truk 4X4, Modifikasi truk 6X6 dan Sparepart truk 4X4 & 6X6.",
+};
 
 const ServicePage = () => {
   const t = useTranslations("Service");

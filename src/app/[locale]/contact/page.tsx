@@ -1,4 +1,10 @@
+import type { Metadata } from "next";
 import { useTranslations } from "next-intl";
+
+export const metadata: Metadata = {
+  title: "CONTACT - PT ADITI MULTI KARYA",
+  description: "Hubungi kami untuk informasi lebih lanjut 0878 7711 9787",
+};
 
 const ContactPage = () => {
   const t = useTranslations("Contact");
@@ -41,21 +47,21 @@ const ContactPage = () => {
                 />
                 <div className="flex justify-between">
                   <button
+                    className="shadow bg-warning-content hover:bg-neutral text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                    type="reset"
+                  >
+                    Reset
+                  </button>
+                  <button
                     type="submit"
                     value="SEND"
                     className="shadow bg-warning-content hover:bg-neutral text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
                   >
                     Send ➤
                   </button>
-                  <button
-                    className="shadow bg-warning-content hover:bg-neutral text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-                    type="reset"
-                  >
-                    Reset
-                  </button>
                 </div>
               </form>
-              <div className="flex flex-wrap gap-4 py-10 mx-auto">
+              <div className="flex flex-col justify-center gap-4 py-10 mx-auto">
                 <div className="text-center">
                   <span className="inline-block p-3 text-white rounded-full bg-warning-content">
                     <svg

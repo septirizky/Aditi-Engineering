@@ -1,4 +1,10 @@
+import { Metadata } from "next";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "SPAREPART - PT ADITI MULTI KARYA",
+  description: "Sparepart truk 4X4 & 6X6.",
+};
 
 const Sparepart = () => {
   return (

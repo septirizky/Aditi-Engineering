@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "ABOUT - PT ADITI MULTI KARYA",
+  description:
+    "Spesialis modifikasi truk 4X4 & 6X6 yang mempunyai kualitas produk tinggi dan tenaga ahli yang mumpuni. Dengan pengalaman bertahun-tahun di industri otomotif, kami telah menjadi pemimpin dalam modifikasi truk yang tidak hanya meningkatkan performa tetapi juga menambah nilai estetika pada kendaraan Anda.",
+};
 
 const AboutPage = () => {
   const t = useTranslations("About");
